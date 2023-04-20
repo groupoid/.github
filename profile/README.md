@@ -23,6 +23,6 @@
 <p align="center">
 <a href="https://formal.uno/monography.pdf">Монографія</a> —
 <a href="https://groupoid.space/institute/">Інститут</a> —
-<a href="https://anders.groupoid.space/lib/>Бібліотека</a>
+<a href="https://anders.groupoid.space/lib/">Бібліотека</a>
 </p>
 
