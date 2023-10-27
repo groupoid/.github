@@ -21,7 +21,7 @@
   нескінченних процесів, таких як BEAM, та кубічних MLTT-пруверів. Робота буде корисною всім аспірантам чистої та прикладної математики, теоретичної інформатики, а також інженерам цих спеціальностей для розуміння природи обчислень.</p>
 
 <p align="center">
-<a href="https://groupoid.github.io/formal.one/)">Монографія</a> —
+<a href="https://groupoid.github.io/formal.one/">Монографія</a> —
 <a href="https://groupoid.space/institute/">Інститут</a> —
 <a href="https://anders.groupoid.space/lib/">Бібліотека</a>
 </p>
