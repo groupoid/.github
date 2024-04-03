@@ -6,7 +6,7 @@
 </picture>
 </p>
 
-<p align="center"><strong> Перша Формальна Система </strong></p>
+<p align="center"><strong> Перша формальна система </strong></p>
 
 <p>Формальне середовище виконання <a href="https://groupoid.github.io/monography/">AXIO.PRO</a>, система вищих мов та базові бібліотеки для програмування, доведення теорем і формальної філософії.</p>
 
