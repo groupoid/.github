@@ -51,7 +51,7 @@
    ZFC, великі кардинали та форсинг — усі відомі математичні області станом на 2025 рік.</p>
 
 <p align="center">
-<a href="https://axio.groupoid.space/">Монографія</a> —
+<a href="https://axiosis.github.io/books/axio/axio.pdf">Монографія</a> —
 <a href="https://groupoid.space/institute/index.htm">Інститут</a> —
 <a href="https://anders.groupoid.space/lib/">Бібліотека</a>
 </p>
