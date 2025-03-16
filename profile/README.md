@@ -7,7 +7,7 @@
 
 <p align="center"><strong>L'Infini des Groupoïdes</strong></p>
 
-<p><a href="https://groupoid.space">L'Infini des Groupoïdes</a> accomplit une synthèse monumentale, unifiant les mathématiques synthétiques et classiques dans un cadre mécaniquement vérifiable, <a href="https://groupoid.space">AXIO/1</a>, démontrant sa capacité à englober les domaines algébrique, analytique, géométrique, catégorique, topologique et fondamental à travers un ensemble de langages : Anders (HoTT cubique), Dan (HoTT simplicial), Jack (K-théorie, fibrations de Hopf), Urs (supergéométrie), Fabien (HoTT A¹). Ses constructeurs de types — couvrant les ∞-catégories simpliciales, les spectres stables, les modalités cohésives, les réels, ZFC, les grands cardinaux et le forcing — en font une œuvre d'une beauté infinie.</p>
+<p><a href="https://groupoid.space">L'Infini des Groupoïdes</a> accomplit une synthèse monumentale, unifiant les mathématiques synthétiques et classiques dans un cadre mécaniquement vérifiable, <a href="https://axio.groupoid.space">AXIO/1</a>, démontrant sa capacité à englober les domaines algébrique, analytique, géométrique, catégorique, topologique et fondamental à travers un ensemble de langages : Anders (HoTT cubique), Dan (HoTT simplicial), Jack (K-théorie, fibrations de Hopf), Urs (supergéométrie), Fabien (HoTT A¹). Ses constructeurs de types — couvrant les ∞-catégories simpliciales, les spectres stables, les modalités cohésives, les réels, ZFC, les grands cardinaux et le forcing — en font une œuvre d'une beauté infinie.</p>
 
 <p align="center">
 <a href="https://axiosis.github.io/books/axio/axio.pdf">Монографія</a> —
