@@ -36,7 +36,7 @@
 * **[christine](https://github.com/groupoid/christine)** — Автоматизована система доведення теорем на основі числення індуктивних конструкцій
 * **[anders](https://github.com/groupoid/anders)** — Модальний гомотопічний верифікатор математики
 * **[urs](https://github.com/groupoid/urs)** — Система доведення теорем на основі W-індукції
-* **[laurent](https://github.com/groupoid/laurent)** — Система доведення теорем на основі W-індукції
+* **[laurent](https://github.com/groupoid/laurent)** — Теорія типів для теорем математичного і функціонального аналізів
 * **[jack](https://github.com/groupoid/jack)** — Теорія типів Джека Морави
 * **[dan](https://github.com/groupoid/dan)** — Сімпліціальна теорія типів
 * **[fabien](https://github.com/groupoid/fabien)** — A¹ Теорія гомотопій
