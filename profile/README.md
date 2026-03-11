@@ -4,22 +4,25 @@
 
 ## Формальні математичні мови для доведення теорем
 
-Істотні істинні сутності лабораторії:
+Фібраційні істотні істинні сутності лабораторії:
 
+* **[alonzo](https://github.com/groupoid/alonzo)** — Мінімальна внутрішня мова декартово-замкнених категорій
 * **[yves](https://github.com/groupoid/yves)** — Мінімальна внутрішння мова симетричних моноїдальних категорій
-* **[joe](https://github.com/groupoid/joe)** — Мінімальна внутрішня мова декартово-замкнених категорій
-* **[alonzo](https://github.com/groupoid/alonzo)** —  Типізоване ‏-ג‏‎числення
-* **[leslie](https://github.com/groupoid/leslie)** — Верифікатор розподілених у просторі і часі протоколів TLA+
 * **[henk](https://github.com/groupoid/henk)** — Чиста система з всесвітами
 * **[frank](https://github.com/groupoid/frank)** — Мінімальна індуктивна система
-* **[per](https://github.com/groupoid/per)** — Система доведення теорем на основі W-індукції
 * **[christine](https://github.com/groupoid/christine)** — Автоматизована система доведення теорем на основі числення індуктивних конструкцій
-* **[anders](https://github.com/groupoid/anders)** — Модальний гомотопічний верифікатор математики
-* **[urs](https://github.com/groupoid/urs)** — Система доведення теорем на основі W-індукції
 * **[laurent](https://github.com/groupoid/laurent)** — Теорія типів для теорем математичного і функціонального аналізів
-* **[jack](https://github.com/groupoid/jack)** — Теорія типів Джека Морави
+* **[per](https://github.com/groupoid/per)** — Система доведення теорем на основі W-індукції
+* **[anders](https://github.com/groupoid/anders)** — Модальний гомотопічний верифікатор математики
 * **[dan](https://github.com/groupoid/dan)** — Сімпліціальна теорія типів
+* **[urs](https://github.com/groupoid/urs)** — Система доведення теорем на основі W-індукції
 * **[fabien](https://github.com/groupoid/fabien)** — A¹ Теорія гомотопій
+* **[jack](https://github.com/groupoid/jack)** — Теорія типів Джека Морави
+
+Спеціалізовані мови:
+
+* **[joe](https://github.com/groupoid/joe)** — Компілятор і віртуальна машина MinCaml 
+* **[leslie](https://github.com/groupoid/leslie)** — Верифікатор розподілених у просторі і часі протоколів TLA+
 
 ### Місія
 
