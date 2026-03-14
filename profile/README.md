@@ -15,7 +15,7 @@
 * **[per](https://github.com/groupoid/per)** — Система доведення теорем на основі W-індукції
 * **[anders](https://github.com/groupoid/anders)** — Модальний гомотопічний верифікатор математики
 * **[dan](https://github.com/groupoid/dan)** — Сімпліціальна теорія типів
-* **[urs](https://github.com/groupoid/urs)** — Система доведення теорем на основі W-індукції
+* **[urs](https://github.com/groupoid/urs)** — Еквіваріантна теорія типів супергеометрії
 * **[fabien](https://github.com/groupoid/fabien)** — A¹ Теорія гомотопій
 * **[jack](https://github.com/groupoid/jack)** — Теорія типів Джека Морави
 
