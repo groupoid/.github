@@ -21,7 +21,8 @@
 
 Спеціалізовані мови:
 
-* **[joe](https://github.com/groupoid/joe)** — Компілятор і віртуальна машина MinCaml 
+* **[joe](https://github.com/synrc/ling)** — Компілятор і віртуальна машина Erlang/OTP 
+* **[eijiro](https://github.com/groupoid/eijiro)** — Компілятор і віртуальна машина MinCaml 
 * **[leslie](https://github.com/groupoid/leslie)** — Верифікатор розподілених у просторі і часі протоколів TLA+
 
 ### Місія
