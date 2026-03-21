@@ -62,6 +62,6 @@ Groupoid Infinity є частиною досліджень Synrc Research Center
 </p>
 
 
-<p align="center"><a href="https://5ht.co/license/">Copyright</a> &copy; 2016—2026 Максим Сохацький</a></p>
+<p align="center"><a href="https://5ht.co/license/">Copyright</a> &copy; 2015—2026 Максим Сохацький</a></p>
 
 
