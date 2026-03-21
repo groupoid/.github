@@ -21,6 +21,7 @@
 
 Спеціалізовані мови:
 
+* **[tim](https://github.com/5HT/tim)** — Компілятор і віртуальна машина Miranda Тіма Олсона
 * **[joe](https://github.com/bitedits/ling)** — Компілятор і віртуальна машина Erlang/OTP Максима Харченко
 * **[eijiro](https://github.com/groupoid/eijiro)** — Компілятор і віртуальна машина MinCaml 
 * **[leslie](https://github.com/groupoid/leslie)** — Верифікатор розподілених у просторі і часі протоколів TLA+
