@@ -21,11 +21,11 @@
 
 Спеціалізовані мови:
 
-* **[mitata](https://github.com/5HT/mitata-copy)** — Сертифікована тактична система доведення теорем з ядром Coq
+* **[mitata](https://github.com/5HT/mitata-copy)** — Сертифікована тактична система доведення теорем з ядром Coq Андреа Асперті
 * **[tim](https://github.com/bitedits/tim)** — Компілятор і віртуальна машина Miranda Тіма Олсона
 * **[joe](https://github.com/bitedits/ling)** — Компілятор і віртуальна машина Erlang/OTP Максима Харченко
-* **[eijiro](https://github.com/groupoid/eijiro)** — Компілятор і віртуальна машина MinCaml 
-* **[leslie](https://github.com/groupoid/leslie)** — Верифікатор розподілених у просторі і часі протоколів TLA+
+* **[eijiro](https://github.com/groupoid/eijiro)** — Компілятор і віртуальна машина MinCaml Ейджиро Сумії
+* **[leslie](https://github.com/groupoid/leslie)** — Верифікатор розподілених у просторі і часі протоколів TLA+ Леслі Лампорта
 
 ### Місія
 
