@@ -51,6 +51,7 @@
 * Agda
 * Coq
 * Standard ML
+* OCaml
 * Erlang
 * Elixir
 * Miranda
