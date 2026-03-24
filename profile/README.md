@@ -15,10 +15,10 @@
 * **[laurent](https://github.com/groupoid/laurent)** — Теорія типів для теорем математичного і функціонального аналізів (Coq, Lean)
 * **[per](https://github.com/groupoid/per)** — Мінімальна кубічна система типів (Lean, Agda)
 * **[anders](https://github.com/groupoid/anders)** — Модальний гомотопічний верифікатор математики (Lean)
-* **[dan](https://github.com/groupoid/dan)** — Сімпліціальна теорія типів
-* **[urs](https://github.com/groupoid/urs)** — Еквіваріантна теорія типів супергеометрії
-* **[fabien](https://github.com/groupoid/fabien)** — A¹ Теорія гомотопій
-* **[jack](https://github.com/groupoid/jack)** — Теорія типів Джека Морави
+* **[dan](https://github.com/groupoid/dan)** — Сімпліціальна теорія типів (Lean)
+* **[urs](https://github.com/groupoid/urs)** — Еквіваріантна теорія типів супергеометрії (Lean)
+* **[fabien](https://github.com/groupoid/fabien)** — A¹ Теорія гомотопій (Lean)
+* **[jack](https://github.com/groupoid/jack)** — Теорія типів Джека Морави (Lean)
 
 ## Системні мови програмування
 
