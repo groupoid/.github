@@ -22,9 +22,9 @@
 
 ## Системні мови програмування
 
-* **[tim](https://github.com/bitedits/tim)** — Компілятор і віртуальна машина Miranda Тіма Олсона
-* **[max](https://github.com/bitedits/ling)** — Компілятор і віртуальна машина Erlang Максима Харченко
-* **[eijiro](https://github.com/groupoid/eijiro)** — Компілятор і віртуальна машина MinCaml Ейджиро Сумії
+* **[tim](https://github.com/bitedits/tim)** — Компілятор і віртуальна машина Тіма Олсона (Miranda)
+* **[max](https://github.com/bitedits/ling)** — Компілятор і віртуальна машина Максима Харченко (Erlang)
+* **[eijiro](https://github.com/groupoid/eijiro)** — Компілятор і віртуальна машина Ейджиро Сумії (Caml)
 
 ## Інші верифікатори
 
