@@ -12,7 +12,7 @@
 * **[henk](https://github.com/groupoid/henk)** — Чиста система з всесвітами (AUTOMATH, Miranda)
 * **[frank](https://github.com/groupoid/frank)** — Мінімальна індуктивна система (Miranda)
 * **[christine](https://github.com/groupoid/christine)** — Автоматизована система доведення теорем на основі числення індуктивних конструкцій (Coq)
-* **[laurent](https://github.com/groupoid/laurent)** — Теорія типів для теорем математичного і функціонального аналізів (Coq)
+* **[laurent](https://github.com/groupoid/laurent)** — Теорія типів для теорем математичного і функціонального аналізів (Coq, Lean)
 * **[per](https://github.com/groupoid/per)** — Мінімальна кубічна система типів (Lean, Agda)
 * **[anders](https://github.com/groupoid/anders)** — Модальний гомотопічний верифікатор математики (Lean)
 * **[dan](https://github.com/groupoid/dan)** — Сімпліціальна теорія типів
