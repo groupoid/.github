@@ -21,13 +21,14 @@
 
 ## Системні мови програмування
 
-Спеціалізовані мови:
-
-* **[andrea](https://github.com/groupoid/andrea)** — Сертифікована тактична система доведення теорем з ядром Coq Андреа Асперті
 * **[tim](https://github.com/bitedits/tim)** — Компілятор і віртуальна машина Miranda Тіма Олсона
 * **[joe](https://github.com/bitedits/ling)** — Компілятор і віртуальна машина Erlang/OTP Максима Харченко
 * **[eijiro](https://github.com/groupoid/eijiro)** — Компілятор і віртуальна машина MinCaml Ейджиро Сумії
+
+### Спеціалізовані мови
+
 * **[leslie](https://github.com/groupoid/leslie)** — Верифікатор розподілених у просторі і часі протоколів TLA+ Леслі Лампорта
+* **[andrea](https://github.com/groupoid/andrea)** — Сертифікована тактична система доведення теорем з ядром Coq Андреа Асперті
 
 ### Місія
 
