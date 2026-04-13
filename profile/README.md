@@ -30,6 +30,7 @@
 
 * **[leslie](https://github.com/groupoid/leslie)** — Верифікатор розподілених у просторі і часі протоколів TLA+ Леслі Лампорта
 * **[andrea](https://github.com/groupoid/andrea)** — Сертифікована тактична система доведення теорем з ядром Coq Андреа Асперті
+* **[manfred](https://github.com/groupoid/manfred)** — Системна академічна мова програмування Манфреда Броя
 
 ### Місія
 
