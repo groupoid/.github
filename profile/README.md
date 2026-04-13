@@ -25,12 +25,13 @@
 * **[tim](https://github.com/bitedits/tim)** — Компілятор і віртуальна машина Тіма Олсона (Miranda)
 * **[max](https://github.com/bitedits/ling)** — Компілятор і віртуальна машина Максима Харченко (Erlang)
 * **[eijiro](https://github.com/groupoid/eijiro)** — Компілятор і віртуальна машина Ейджиро Сумії (Caml)
+* **[manfred](https://github.com/groupoid/manfred)** — Системна академічна мова програмування Манфреда Броя
 
 ## Інші верифікатори
 
+* **[robin](https://github.com/groupoid/robin)** — Перший верифікатор ПЗ Робіна Мілнера (Премія Тюрінга)
 * **[leslie](https://github.com/groupoid/leslie)** — Верифікатор розподілених у просторі і часі протоколів TLA+ Леслі Лампорта
 * **[andrea](https://github.com/groupoid/andrea)** — Сертифікована тактична система доведення теорем з ядром Coq Андреа Асперті
-* **[manfred](https://github.com/groupoid/manfred)** — Системна академічна мова програмування Манфреда Броя
 
 ### Місія
 
